@@ -1,4 +1,5 @@
 So essentially, here it is: 
+[PICTURES AND OTHER media may not show up (it didn't for me) because i didnt upload the files here.]
 
 <!DOCTYPE html>
 <html>
